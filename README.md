@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannatef
+- 👋 Hi, I’m @ha_202
 - 👀 I’m interested in ... bioinformatics
 - 🌱 I’m currently learning ... genome annotation 
 - 💞️ I’m looking to collaborate on ... generating commands for optimal results 
